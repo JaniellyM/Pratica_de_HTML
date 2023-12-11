@@ -1,1 +1,1 @@
-Olá esse repositorio é para entrega de atividade de Pratica de HMTL
+Olá esse repositorio é para entrega da atividade Pratica de HMTL
